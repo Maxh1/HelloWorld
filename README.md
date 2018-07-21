@@ -1,4 +1,4 @@
 # HelloWorld
-System.out.println("");
+System.out.println("Max");
 
 Added by William
